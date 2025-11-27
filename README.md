@@ -70,7 +70,7 @@
       <a href="https://mercadolivre.com/sec/1DjGt3p" target="_blank">Ver no Mercado Livre</a>
     </div>
 
-    <!-- Samsung vision TV 50 Qled -->
+    <!-- Samsung vision TV50 Qled -->
     <div class="product-card">
       <h2>Nome do Produto 2</h2>
       <p>Descrição curta do produto.</p>
