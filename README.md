@@ -77,6 +77,14 @@
       <a href="https://mercadolivre.com/sec/2QdwbYm" target="_blank">Ver no Mercado Livre</a>
     </div>
 
+<!-- Notbook lenovo 4gb 128gb W11 -->
+    <div class="product-card">
+   <h2>Notbook lenovo 4gb 128gb W11</h2>
+      <p>Descrição curta do produto.</p>
+      <a href="https://mercadolivre.com/sec/1Gsa5ux" target="_blank">Ver no Mercado Livre</a>
+      </div>
+    
+
     <!-- Adicione mais blocos de produtos conforme necessário -->
   </div>
 
