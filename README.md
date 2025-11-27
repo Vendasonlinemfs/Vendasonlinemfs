@@ -74,7 +74,7 @@
     <div class="product-card">
       <h2>Nome do Produto 2</h2>
       <p>Descrição curta do produto.</p>
-      <a href="LINK_DO_PRODUTO_2" target="_blank">Ver no Mercado Livre</a>
+      <a href="https://mercadolivre.com/sec/1DjGt3p " target="_blank">Ver no Mercado Livre</a>
     </div>
 
     <!-- Adicione mais blocos de produtos conforme necessário -->
