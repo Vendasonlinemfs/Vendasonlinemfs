@@ -63,7 +63,7 @@
   <header>Meus Produtos no Mercado Livre</header>
 
   <div class="container">
-    <!-- SMARTPHONE MOTOROLA G15 -->
+    <!-- SMARTPHONE MOTO G15 -->
     <div class="product-card">
       <h2>SMARTPHONE MOTOROLA G15</h2>
       <p>Descrição curta do produto.</p>
