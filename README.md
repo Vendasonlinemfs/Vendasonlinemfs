@@ -63,14 +63,14 @@
   <header>Meus Produtos no Mercado Livre</header>
 
   <div class="container">
-    <!-- PRODUTO 1 -->
+    <!-- SMARTPHONE MOTOROLA G15 -->
     <div class="product-card">
       <h2>Nome do Produto 1</h2>
       <p>Descrição curta do produto.</p>
       <a href="https://mercadolivre.com/sec/1DjGt3p" target="_blank">Ver no Mercado Livre</a>
     </div>
 
-    <!-- PRODUTO 2 -->
+    <!-- Samsung vision TV 50 Qled -->
     <div class="product-card">
       <h2>Nome do Produto 2</h2>
       <p>Descrição curta do produto.</p>
